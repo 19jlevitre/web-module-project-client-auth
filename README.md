@@ -1,5 +1,7 @@
 # Auth Friends
 
+I promis I will finish this and learn the concepts. I went on a very important trip and was unavailable to do it.
+
 Topics:
 
 * React Router
